@@ -1,0 +1,33 @@
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe.config
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.pdb
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csprojResolveAssemblyReference.cache
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast_Memory.MainForm.resources
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csproj.GenerateResource.Cache
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.exe
+H:\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.pdb
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe.config
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.pdb
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csprojResolveAssemblyReference.cache
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast_Memory.MainForm.resources
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csproj.GenerateResource.Cache
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.exe
+H:\Nueva carpeta\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.pdb
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe.config
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.exe
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.pdb
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\bin\Debug\Fast Memory.pdb
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csprojResolveAssemblyReference.cache
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast_Memory.MainForm.resources
+G:\Users\IPPESSI\Downloads\Fast Memory 2.0\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe.config
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\bin\Debug\Fast Memory.exe
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\bin\Debug\Fast Memory.pdb
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csprojAssemblyReference.cache
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast_Memory.MainForm.resources
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csproj.GenerateResource.cache
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast Memory.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast Memory.exe
+C:\Users\User\Downloads\descargas\Fast Memory-20230330T181226Z-001\Fast Memory\Fast Memory\obj\Debug\Fast Memory.pdb
